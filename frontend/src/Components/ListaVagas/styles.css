@@ -1,0 +1,12 @@
+.ul-vagas li{
+    background: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    border: 1px solid #0d47a1;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.ajusta-btn{
+    margin-top: 70px;
+}

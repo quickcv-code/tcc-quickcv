@@ -1,0 +1,21 @@
+.ajusta-btn{
+    margin-top: 55px;
+}
+
+.ul-vagas{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 24px;
+    list-style: none;
+}
+
+.ul-vagas li {
+    background: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    position: relative;
+}
+
+.mg-20{
+    margin-left: 20px;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: #646464;
+}
+
+.formularioCadastro{
+    background-color: aliceblue;
+    margin: 0 auto;
+    margin-top: 150px;
+    width: 800px;
+    display:block;
+    text-align:center;
+    border-radius: 15px;
+    padding:10px;
+}
+
